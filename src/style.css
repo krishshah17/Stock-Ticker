@@ -1,0 +1,55 @@
+body{
+	background-color:black;
+	display: flex;
+	align-items: center;
+}
+
+.h1style{
+	color:#EA71E7;
+	font-size:20px;
+}
+#root
+{
+	width: 100vw;
+	height: 100vh;
+}
+
+.textbox{
+padding: 5px;
+border-radius: 12px;
+height: 40px;
+width: 30%;
+margin: 46px;
+text-align: center;
+}
+
+.button{
+border-radius: 12px;
+height: 25px;
+width: 20%;
+padding: 17px;
+padding-bottom: 29px;	
+}
+
+.divClass{
+	width: 100vw;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: auto;
+	flex-direction: column;
+}
+
+.Card{
+	width: 50%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: auto;
+	flex-direction: column;
+	color: white;
+	background-color: ghostwhite;
+	border: solid whitesmoke;
+	margin-top: 20px;
+}
+
